@@ -65,11 +65,6 @@ export PATH=$PATH:/usr/local/go/bin
 export GOPATH=$HOME/go1.20.4
 source ~/.profile
 go version
-cd
-echo .bash_profile >> "PATH=$PATH:/home/kmkim/goroot/src/go/bin"
-echo .bash_profile >> "BASH_ENV=$HOME/.bashrc"
-echo .bash_profile >> "USERNAME="kmkim"
-source .bash_profile
 
 
 go version #1.20.4
