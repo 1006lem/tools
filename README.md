@@ -2,7 +2,14 @@
 
 for ubuntu 22.04
 
+---
 
+
+[go-install.sh](docker-install.sh)
+- go1.20.5
+
+
+---
 
 ### strting node.js project
 
