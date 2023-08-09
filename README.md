@@ -4,7 +4,7 @@ for ubuntu 22.04
 
 ---
 
-* [go-install.sh](docker-install.sh)
+* [go-install.sh](go-install.sh)
   - code for go1.20.5
 
 
